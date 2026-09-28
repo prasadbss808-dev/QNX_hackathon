@@ -6,7 +6,6 @@ Vasavi College of Engineering (Autonomous), Hyderabad
 | Roll No. | Name |
 |---|---|
 | 1602-23-735-073 | B BALU |
-| 1602-23-735-080 | A EKANSH |
 | 1602-23-735-114 | B S S PRASAD |
 
 ---
